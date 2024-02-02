@@ -1,5 +1,8 @@
 # Movie Data Analysis Project
 
+![image](https://github.com/Bekione/BigData-TMDB_Movie_Analysis/assets/112067722/7d3c3744-1344-4136-82eb-f2e0c14f3041)
+
+
 ## Overview
 
 This project involves the analysis of the TMDB 5000 Movie Dataset to gain insights into various aspects of the movie industry. The dataset includes information on movie releases, budgets, genres, crew collaborations, ratings, and revenues.
