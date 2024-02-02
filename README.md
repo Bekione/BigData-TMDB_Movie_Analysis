@@ -42,7 +42,7 @@ The project aims to answer the following key questions:
 
 ## Usage
 
-- Clone the repository: `git clone https://github.com/your-username/movie-data-analysis.git`
+- Clone the repository: `git clone https://github.com/Bekione/BigData-TMDB_Movie_Analysis.git`
 - Navigate to the project directory: `cd movie-data-analysis`
 - Open and explore the Jupyter Notebook files for detailed analysis.
 
